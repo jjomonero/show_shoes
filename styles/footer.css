@@ -1,0 +1,8 @@
+.rodape{
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    background: linear-gradient(120deg, #2cc70d, #000);
+    padding: 40px 0 0 0;
+    height: 6px;
+}
